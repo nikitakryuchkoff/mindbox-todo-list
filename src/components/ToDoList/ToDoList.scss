@@ -1,0 +1,15 @@
+.todo-list {
+    width: 510px;
+    margin: 0 auto
+}
+
+.list-group {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    padding-left: 0;
+    margin-bottom: 0;
+    border-radius: 0.25rem;
+    justify-content: center;
+}
